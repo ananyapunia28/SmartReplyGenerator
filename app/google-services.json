@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95909256628",
+    "project_id": "smart-reply-3e1d2",
+    "storage_bucket": "smart-reply-3e1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95909256628:android:fbb5cdba85fb5e9267e6e1",
+        "android_client_info": {
+          "package_name": "com.hackstars.smartreply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95909256628-d5dprq3j3mt73onkd22uhit2bmsddu9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackstars.smartreply",
+            "certificate_hash": "9f10e04810496b5e7b6f1a8509128c336d83546a"
+          }
+        },
+        {
+          "client_id": "95909256628-baobna2k5njscgkfa65nanf551m1iufb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBts8Ar-ghVacbrK8HLqH6N_bjr8aPIt6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95909256628-baobna2k5njscgkfa65nanf551m1iufb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
